@@ -8,4 +8,11 @@
     <artifactId>portifolio</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.webjars</groupId>
+            <artifactId>bootstrap</artifactId>
+            <version>5.1.1</version>
+        </dependency>
+    </dependencies>
 </project>
